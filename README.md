@@ -46,3 +46,14 @@ Designed based on direct requirements from nursing staff to reduce manual worklo
 ## Reference  
 
 Municipal healthcare use case: https://www.kppmu.go.th/news-detail?hd=1&id=124000
+
+## Installation
+
+```bash
+git clone https://github.com/ratchanon-noknoy2318/patient-registration-platform-nextjs
+
+cd patient-registration-platform-nextjs
+
+npm install
+npm run dev
+```
