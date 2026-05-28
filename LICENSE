@@ -1,39 +1,4 @@
-## License
+## 📄 License
 
-This project uses a dual-license model:
-
-### 1. Source Code (MIT License)
-
-All source code within the `app/` directory, including application logic, integrations, and configuration, is licensed under the MIT License.
-
-You are free to:
-- Use
-- Modify
-- Distribute
-- Use commercially
-
-Condition: Attribution is required.
-
-See `LICENSE-MIT` for full details.
-
----
-
-### 2. Content / Data (CC0 1.0 Universal)
-
-All non-code content such as documentation text, templates, and structured data is licensed under CC0 1.0 Universal.
-
-You are free to:
-- Use
-- Modify
-- Distribute
-- Use commercially
-
-No attribution is required.
-
-See `LICENSE-CC0` for full details.
-
----
-
-### Default
-
-If a file is not explicitly covered above, it is considered to be under the MIT License.
+⚠️ **This project is strictly for educational and case study purposes only. Commercial use or reselling is prohibited!**  
+For full legal terms and conditions, please refer to the [LICENSE](LICENSE) file.
