@@ -208,12 +208,12 @@ graph TD
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ratchanon-noknoy2318/healthcare-registration-nextjs.git
+   git clone https://github.com/ratchanon-noknoy2318/healthcare-intake.git
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd healthcare-registration-nextj
+   cd healthcare-intake
    ```
 
 3. Install project dependencies:
