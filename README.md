@@ -208,12 +208,12 @@ graph TD
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ratchanon-noknoy2318/patient-registration-platform-nextjs
+   git clone https://github.com/ratchanon-noknoy2318/healthcare-registration-nextjs.git
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd patient-registration-platform-nextjs
+   cd healthcare-registration-nextj
    ```
 
 3. Install project dependencies:
