@@ -24,3 +24,7 @@ NEXT_PUBLIC_GAS_URL=your_google_apps_script_web_app_url
 LINE_CHANNEL_ACCESS_TOKEN=your_line_token
 LINE_CHANNEL_SECRET=your_line_secret
 ```
+
+## Additional Information
+- Evidence of Use: https://www.kppmu.go.th/news-detail?hd=1&id=124000
+- LINE Official Account: https://sites.google.com/view/hospital-line-gateway
