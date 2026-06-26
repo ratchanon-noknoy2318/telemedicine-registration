@@ -10,10 +10,10 @@ A production-oriented healthcare registration system designed for hospital workf
 - Google Sheets
 - LINE Messaging API
 
-## Key Features
+## Features
 - Users can self-register 24/7
 - System sends LINE notifications to the responsible nurse
 
 
-## Evidence of usage
+## Evidence of usage: Used by the Mayor of Kamphaeng Phet Municipality.
 [Click to view evidence](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
